@@ -10,6 +10,7 @@
     "format": "prettier -w \"**/*.{vue,js,jsx,cjs,mjs,ts,tsx,cts,mts,css,scss}\""
   },
   "dependencies": {
+    "lodash": "^4.17.21",
     "vue": "^3.2.47"
   },
   "devDependencies": {
